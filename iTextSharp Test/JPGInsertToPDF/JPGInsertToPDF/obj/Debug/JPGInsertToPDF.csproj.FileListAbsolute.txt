@@ -1,0 +1,8 @@
+C:\dev\MongoDB Test\JPGInsertToPDF\JPGInsertToPDF\bin\Debug\JPGInsertToPDF.exe.config
+C:\dev\MongoDB Test\JPGInsertToPDF\JPGInsertToPDF\bin\Debug\JPGInsertToPDF.exe
+C:\dev\MongoDB Test\JPGInsertToPDF\JPGInsertToPDF\bin\Debug\JPGInsertToPDF.pdb
+C:\dev\MongoDB Test\JPGInsertToPDF\JPGInsertToPDF\bin\Debug\itextsharp.dll
+C:\dev\MongoDB Test\JPGInsertToPDF\JPGInsertToPDF\bin\Debug\itextsharp.pdfa.dll
+C:\dev\MongoDB Test\JPGInsertToPDF\JPGInsertToPDF\obj\Debug\JPGInsertToPDF.csprojResolveAssemblyReference.cache
+C:\dev\MongoDB Test\JPGInsertToPDF\JPGInsertToPDF\obj\Debug\JPGInsertToPDF.exe
+C:\dev\MongoDB Test\JPGInsertToPDF\JPGInsertToPDF\obj\Debug\JPGInsertToPDF.pdb
